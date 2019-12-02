@@ -7,7 +7,7 @@ to test different machine learning model how they works with dataset to predict 
 # Kushtia-7003, Bangladesh. 							                                              #
 # @copyright: You can copy and distribute this code only with this readme file unchanged#
 #########################################################################################
-# Subject		        : Information Processing and Presentation.                          #
+# Subject		        : Information Preprocessing and Presentation.                       #
 # Problems		      : in the file named "Lab_manual_Data_Science.pdf".                  #
 # Data Set(Train) 	: in the file named "Loan_training.csv".                            #
 # Data Set(Test)	  : in the file named "Loan_testing.csv".                             #
